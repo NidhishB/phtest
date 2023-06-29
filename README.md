@@ -14,5 +14,6 @@
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q21290872" title="powder">
+<param ve-entity eid="Q20819848" title="mate">
 <param ve-entity eid="Q211036" title="stimulant">
 
