@@ -17,7 +17,7 @@
 <param ve-entity eid="Q20819848" title="mate">
 <param ve-entity eid="Q211036" title="stimulant">
 
-<param ve-video vid=SezwUnwpoo0&ab">
+<param ve-video vid="SezwUnwpoo0&ab_channel=MELOO">
 
 <param ve-image url="MATE_GREEN_SUSZ_1280x720px.jpeg" label="leaves">
 
