@@ -34,5 +34,5 @@ mate is a versatile drink
 
 specimen jstor better have access
 
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.abfm00488">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.s09-33869">
 
