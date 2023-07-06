@@ -17,6 +17,6 @@
 <param ve-entity eid="Q20819848" title="mate">
 <param ve-entity eid="Q211036" title="stimulant">
 
-<param ve-image "MATE_GREEN_SUSZ_1280x720px.jpg" label="leaves">
+<param ve-image url="MATE_GREEN_SUSZ_1280x720px.jpg" title="leaves">
 
 <param ve-image label="mouth to mouth" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/83/CPR_Child_Mouth_To_Mouth.png">
