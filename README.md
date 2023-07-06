@@ -28,5 +28,5 @@ mate is a versatile drink
 
 
 
-<param ve-video vid="SezwUnwpoo0&ab_channel=MELOO">
+<param ve-video vid="SezwUnwpoo0&ab">
 
