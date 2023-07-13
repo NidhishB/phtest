@@ -44,11 +44,17 @@ specimen jstor better have access
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.s09-33869">
 
 
-## timeline
+## compare sync
 
 brb
 
 <param ve-compare sync license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/83/CPR_Child_Mouth_To_Mouth.png">
+
+<param ve-compare url="MATE_GREEN_SUSZ_1280x720px.jpeg">
+
+## wait
+
+<param ve-compare curtain license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/8/83/CPR_Child_Mouth_To_Mouth.png">
 
 <param ve-compare url="MATE_GREEN_SUSZ_1280x720px.jpeg">
 
