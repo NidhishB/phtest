@@ -71,4 +71,8 @@ harsh-bookmark="false"
 initial-zoom="1"
 height="750">
 
+## map
+map
+
+<param ve-map center="Q212" zoom="4">
 
