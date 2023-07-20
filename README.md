@@ -84,6 +84,7 @@ height="750">
 map
 
 <param ve-map center="Q212" zoom="4" title ="the ukraine">
+<param ve-map=layer geojson url="https://raw.githubusercontent.com/NidhishB/phtest/main/map1.json">
 
 
 ## maaaap
