@@ -98,7 +98,9 @@ belarus
 
 
 ## map layaaaa
-<span data-mouseover-map-flyto=50.464550, 30.468099, 13">ukraine</span>
+hmm hmm country country hmm
+<span data-mouseover-map-flyto="50.464550, 30.468099, 13">ukraine</span>
 <span data-mouseover-map-flyto="55.697595, 37.741276, 13">russia</span>
 
-<param ve-map center="50.438318, 30.623280" title="the ukraine" zoom="4">
+<param ve-map center="Q212" zoom="4" title ="the ukraine">
+
