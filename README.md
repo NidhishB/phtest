@@ -89,7 +89,11 @@ map
 
 ## maaaap
 maaaap
+<span data-mouseover-map=flyto=50.464550, 30.468099", zoom ="13">ukraine</span>
+russia
+belarus
 
 <param ve-map center="50.438318, 30.623280" title="the ukraine" zoom="9">
+
 
 ## map layaaaa
