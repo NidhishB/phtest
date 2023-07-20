@@ -89,5 +89,5 @@ map
 ## maaaap
 maaaap
 
-<param ve-map centre="50.391115, 30.553940" title="the ukraine" zoom="11">
+<param ve-map centre="50.418196, 30.509297" title="the ukraine" zoom="9">
 
