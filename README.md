@@ -7,6 +7,18 @@
        author="Nidhish Birhade"
        layout="vertical">
 
+### ok oko okoko 
+
+guelde rose rose
+name 
+rose guelder
+huh 
+guelder
+
+nomenclature - Sheet1.tsv
+
+<param ve-d3plus-ring-network url="nomenclature - Sheet1.tsv" center="Guelder-Rose">
+
 
 ### 20 July 2023
 
