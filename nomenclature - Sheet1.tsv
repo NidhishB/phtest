@@ -1,0 +1,10 @@
+source	source.label	target	target.label	edge
+Q775	Guelder	Q156928	Guelder-Rose	Gederland, a Province in the Netherlands
+Q34687	Rose	Q156928	Guelder-Rose	Not a Rose
+Q13181	Cranberry Bush	Q156928	Guelder-Rose	Commonly used in North America
+Q4886	Snowball Tree	Q156928	Guelder-Rose	Most common name in England; Only a cultivar
+Q212	Kalyna	Q156928	Guelder-Rose	Polish, Ukranian, & Russian name
+Q131448	Water Elder	Q156928	Guelder-Rose	Not Elder tree
+Q281801	Viburnum Opulus 	Q156928	Guelder-Rose	Scientific Name
+Q158508	Viburnum	Q281801	Viburnum Opulus	Latin for Wayfaring Tree
+Q59772474	Opulus	Q281801	Viburnum Opulus	Latin for Maple Tree
