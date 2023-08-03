@@ -15,8 +15,6 @@ rose guelder
 huh 
 guelder
 
-nomenclature - Sheet1.tsv
-
 <param ve-d3plus-ring-network url="nomenclature - Sheet1.tsv" center="Guelder-Rose">
 
 
