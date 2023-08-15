@@ -6,7 +6,7 @@
       "properties": {
         "stroke": "#eb4d4d",
         "stroke-width": 0,
-        "stroke-opacity": 0.01,
+        "stroke-opacity": 1,
         "fill": "#eb4d4d",
         "fill-opacity": 0.7
       },
