@@ -15,7 +15,7 @@ rose guelder
 huh 
 guelder
 
-<param ve-d3plus-ring-network url="nomenclature - Sheet1 (1).tsv" center="Guelder Rose">
+<param ve-d3plus-ring-network url="nomenclature.tsv" center="Guelder Rose">
 
 
 ### 20 July 2023
