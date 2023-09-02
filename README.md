@@ -10,7 +10,7 @@
 ### ok oko okoko 
 
 guelde rose rose
-<param ve-d3plus-ring-network url="nomenclature.tsv" center="Guelder Rose">
+<param ve-d3plus-ring-network url="nomenclature_ViburnumOpulus.tsv" center="Viburnum Opulus">
 
 
 ### 20 July 2023
