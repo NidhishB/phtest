@@ -10,11 +10,6 @@
 ### ok oko okoko 
 
 guelde rose rose
-name 
-rose guelder
-huh 
-guelder
-
 <param ve-d3plus-ring-network url="nomenclature.tsv" center="Guelder Rose">
 
 
