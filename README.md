@@ -16,7 +16,7 @@ image image image
 ### ok oko okoko 
 
 guelde rose rose roserrr
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/NidhishB/phtest/main/name%20wheel_ViburnumOpulus.csv" center="Viburnum Opulus">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/NidhishB/phtest/main/name%20wheel_ViburnumOpulus.csv" center="Arachis hypogaeas">
 
 
 
